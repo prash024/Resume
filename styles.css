@@ -1,5 +1,5 @@
 body{
-  padding-top: 10%;
+  padding-top: 3%;
   padding-left: 14%;
   background-color: #C1CFC0;
 
@@ -21,7 +21,7 @@ a:hover{
   color: white;
 }
 .outer{
-  padding-top: 0px;
+  padding-top: 20px;
   background-color: #E7E0C9;
   width: 84%;
 
